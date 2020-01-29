@@ -1,0 +1,25 @@
+.bg-light {
+  background-color: #edfaf8;
+}
+
+.bg-testing{
+  background-color: aquamarine;
+}
+
+.mx-whitespace{
+  margin: 0px 300px 0px 300px;
+}
+
+.btn-invisible{
+  outline: none;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+}
+
+button:focus{
+  outline: none;
+}
